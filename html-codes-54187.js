@@ -27,7 +27,7 @@ document.write('      <img class="quotation-mark" src="https://uploads-ssl.webfl
 document.write('      <p class="quote-text">Increase my productivity, staying away from people that hurt me, improving my mental health, and eventually telling someone I find trustworthy enough to comfort me in times of distress and self loathing.</p>');
 document.write('      <img class="avatar-img" src="https://uploads-ssl.webflow.com/64066f7ba948a8b9d8b1ca0e/651dbeb6e503b7c1a8363125_avatar-07.svg"> ');
 document.write('   </div>');
-document.write('   <div data-luni-el="cta-testimonials" class="col-sm-12 col-md-6 col-lg-4 col-xl-3 mb-4">');
+document.write('   <div data-luni-el="cta-testimonials,growth-testimonials,productivity-testimonials" class="col-sm-12 col-md-6 col-lg-4 col-xl-3 mb-4">');
 document.write('      <p class="quote-text">Harness the power of AI to transform your journaling experience.</p>');
 document.write('      <a class="cta" href="https://my.rosebud.app/?utm_campaign=testimonial_page">Discover Rosebud!</a> ');
 document.write('   </div>');
@@ -48,7 +48,7 @@ document.write('      <div class="person"><img class="avatar-img" src="https://u
 document.write('         <p class="avatar-name">Andrew Jiang</p>');
 document.write('         </div>   ');
 document.write('   </div>');
-document.write('   <div data-luni-el="cta-testimonials" class="col-sm-12 col-md-6 col-lg-4 col-xl-3 mb-4">');
+document.write('   <div data-luni-el="cta-testimonials,health-testimonials" class="col-sm-12 col-md-6 col-lg-4 col-xl-3 mb-4">');
 document.write('      <p class="quote-text">Harness the power of AI to transform your journaling experience.</p>');
 document.write('      <a class="cta" href="https://my.rosebud.app/?utm_campaign=testimonial_page">Discover Rosebud!</a> ');
 document.write('   </div>');
@@ -79,7 +79,7 @@ document.write('      <img class="quotation-mark" src="https://uploads-ssl.webfl
 document.write('      <p class="quote-text">Great! It’s really hard for me to just sit and write, as soon as I try my head empties and I don’t even know what to write about. The questions help so much</p>');
 document.write('      <img class="avatar-img" src="https://uploads-ssl.webflow.com/64066f7ba948a8b9d8b1ca0e/651dbeb7dfaf4417297dc2a9_avatar-04.svg"> ');
 document.write('   </div>');
-document.write('   <div data-luni-el="cta-testimonials" class="col-sm-12 col-md-6 col-lg-4 col-xl-3 mb-4">');
+document.write('   <div data-luni-el="cta-testimonials,general-testimonials,health-testimonials" class="col-sm-12 col-md-6 col-lg-4 col-xl-3 mb-4">');
 document.write('      <p class="quote-text">Harness the power of AI to transform your journaling experience.</p>');
 document.write('      <a class="cta" href="https://my.rosebud.app/?utm_campaign=testimonial_page">Discover Rosebud!</a> ');
 document.write('   </div>');
@@ -100,7 +100,7 @@ document.write('      <img class="quotation-mark" src="https://uploads-ssl.webfl
 document.write('      <p class="quote-text">It was actually quite amazing. I was not expecting the tailored responses. Although an AI. I felt a relief as if someone was listening to me! Really amazing!</p>');
 document.write('      <img class="avatar-img" src="https://uploads-ssl.webflow.com/64066f7ba948a8b9d8b1ca0e/651dbeb6e503b7c1a8363125_avatar-07.svg"> ');
 document.write('   </div>');
-document.write('   <div data-luni-el="cta-testimonials" class="col-sm-12 col-md-6 col-lg-4 col-xl-3 mb-4">');
+document.write('   <div data-luni-el="cta-testimonials,general-testimonials" class="col-sm-12 col-md-6 col-lg-4 col-xl-3 mb-4">');
 document.write('      <p class="quote-text">Harness the power of AI to transform your journaling experience.</p>');
 document.write('      <a class="cta" href="https://my.rosebud.app/?utm_campaign=testimonial_page">Discover Rosebud!</a> ');
 document.write('   </div>');
@@ -125,7 +125,7 @@ document.write('      <p class="quote-text">Actually…amazing. I was skeptical 
 document.write('      <img class="avatar-img" src="https://uploads-ssl.webflow.com/64066f7ba948a8b9d8b1ca0e/651dbeb639fdbecaef2d2be9_avatar-05.svg"> ');
 document.write('   </div>');
 document.write('');
-document.write('   <div data-luni-el="cta-testimonials" class="col-sm-12 col-md-6 col-lg-4 col-xl-3 mb-4">');
+document.write('   <div data-luni-el="cta-testimonials,general-testimonials" class="col-sm-12 col-md-6 col-lg-4 col-xl-3 mb-4">');
 document.write('      <p class="quote-text">Harness the power of AI to transform your journaling experience.</p>');
 document.write('      <a class="cta" href="https://my.rosebud.app/?utm_campaign=testimonial_page">Discover Rosebud!</a> ');
 document.write('   </div>');
@@ -148,7 +148,7 @@ document.write('      <p class="quote-text">So amazing. I didn\'t think I could 
 document.write('      <img class="avatar-img" src="https://uploads-ssl.webflow.com/64066f7ba948a8b9d8b1ca0e/651dbeb6b052a4c56ee59654_avatar-02.svg"> ');
 document.write('   </div>');
 document.write('');
-document.write('   <div data-luni-el="cta-testimonials" class="col-sm-12 col-md-6 col-lg-4 col-xl-3 mb-4">');
+document.write('   <div data-luni-el="cta-testimonials,comparison-testimonials" class="col-sm-12 col-md-6 col-lg-4 col-xl-3 mb-4">');
 document.write('      <p class="quote-text">Harness the power of AI to transform your journaling experience.</p>');
 document.write('      <a class="cta" href="https://my.rosebud.app/?utm_campaign=testimonial_page">Discover Rosebud!</a> ');
 document.write('   </div>');
@@ -175,7 +175,7 @@ document.write('         <p class="avatar-name">Brent Attaway</p>');
 document.write('         </div>       ');
 document.write('   </div>');
 document.write('');
-document.write('   <div data-luni-el="cta-testimonials" class="col-sm-12 col-md-6 col-lg-4 col-xl-3 mb-4">');
+document.write('   <div data-luni-el="cta-testimonials,general-testimonials" class="col-sm-12 col-md-6 col-lg-4 col-xl-3 mb-4">');
 document.write('      <p class="quote-text">Harness the power of AI to transform your journaling experience.</p>');
 document.write('      <a class="cta" href="https://my.rosebud.app/?utm_campaign=testimonial_page">Discover Rosebud!</a> ');
 document.write('   </div>');
