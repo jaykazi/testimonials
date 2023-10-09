@@ -198,7 +198,7 @@ document.write('      <p class="quote-text">I actually really like that ai is he
 document.write('      <img class="avatar-img" src="https://uploads-ssl.webflow.com/64066f7ba948a8b9d8b1ca0e/651dbeb639fdbecaef2d2be9_avatar-05.svg"> ');
 document.write('   </div>');
 document.write('');
-document.write('   <div data-luni-el="cta-testimonials" class="col-sm-12 col-md-6 col-lg-4 col-xl-3 mb-4">');
+document.write('   <div data-luni-el="cta-testimonials,general-testimonials" class="col-sm-12 col-md-6 col-lg-4 col-xl-3 mb-4">');
 document.write('      <p class="quote-text">Harness the power of AI to transform your journaling experience.</p>');
 document.write('      <a class="cta" href="https://my.rosebud.app/?utm_campaign=testimonial_page">Discover Rosebud!</a> ');
 document.write('   </div>');
