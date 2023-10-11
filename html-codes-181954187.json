@@ -1,0 +1,82 @@
+{
+    "testimonials": [
+        {
+            "name": "Anonymous User",
+            "image": "https://uploads-ssl.webflow.com/64066f7ba948a8b9d8b1ca0e/651dbeb6b052a4c56ee59654_avatar-02.svg",
+            "content": "It felt good to be able to journal on my phone and to not have a person ask these questions that sometimes feel judgmental or invasive.",
+            "category":"general"
+        },
+        {
+            "name": "Davide Di Cillo",
+            "image": "https://uploads-ssl.webflow.com/64066f7ba948a8b9d8b1ca0e/6522e3a87ea9a737daf13c62_Davide-Di-Cillo-Avatar.png",
+            "content": "Rosebud is the perfect example of how AI can be used to improve people's life beyond the usual productivity enhancer. I'm really excited to see this out in the public, it's truly a game changer for personal growth.",
+            "category":"growth"
+        },
+        {
+            "name": "Anonymous User",
+            "image": "https://uploads-ssl.webflow.com/64066f7ba948a8b9d8b1ca0e/651dbeb6e503b7c1a8363125_avatar-07.svg",
+            "content": "Increase my productivity, staying away from people that hurt me, improving my mental health, and eventually telling someone I find trustworthy enough to comfort me in times of distress and self loathing.",
+            "category":"health,productivity"
+        },
+        {
+            "name": "Anonymous User",
+            "image": "https://uploads-ssl.webflow.com/64066f7ba948a8b9d8b1ca0e/651dbeb61931fd7b9abd2cec_avatar-01.svg",
+            "content": "This is AMAZING!!! I have had so much on my plate and I have ADHD that is a more recent development/discovery, so Journaling has been a goal of mine for a long time but I find it difficult to maintain. The fact that this is interactive and gives feedback, suggestions, and insights is exactly what I need.",
+            "category":"health"
+        },
+        {
+            "name": "Anonymous User",
+            "image": "https://uploads-ssl.webflow.com/64066f7ba948a8b9d8b1ca0e/651dbeb613b882d4e36d50b2_avatar-12.svg",
+            "content": "I really like this a lot so far. I am excited to use it more and already feel benefits in my mental health. It's so nice to have an interactive journal, writing my thoughts and having feedback and a conversation while writing is like a dream come true for me. I am really happy and excited to continue using and happy to share more feedback as I use it.",
+            "category":"health"
+        },
+        {
+            "name": "Andrew Jiang",
+            "image": "https://uploads-ssl.webflow.com/64066f7ba948a8b9d8b1ca0e/6522ea9dcb2aec6e4e19480f_Andrew-Jiang-Avatar.png",
+            "content": "Highly recommended for introspective daily journaling. Uses AI to help you process emotions and thoughts",
+            "category":"health"
+        },        
+        {
+            "name": "Anonymous User",
+            "image": "https://uploads-ssl.webflow.com/64066f7ba948a8b9d8b1ca0e/651dbeb7a49fd5d84d760ef7_avatar-06.svg",
+            "content": "It was amazing! Rosebud fostered deeper thoughts in my first journal entry with feedback and follow-up questions! This is just what I needed for my mental health and calming my mind.",
+            "category":"health"
+        },
+        {
+            "name": "Anonymous User",
+            "image": "https://uploads-ssl.webflow.com/64066f7ba948a8b9d8b1ca0e/651dbeb61931fd7b9abd2cec_avatar-01.svg",
+            "content": "This is AMAZING!!! I have had so much on my plate and I have ADHD that is a more recent development/discovery, so Journaling has been a goal of mine for a long time but I find it difficult to maintain. The fact that this is interactive and gives feedback, suggestions, and insights is exactly what I need.",
+            "category":"health"
+        },
+        {
+            "name": "Anonymous User",
+            "image": "https://uploads-ssl.webflow.com/64066f7ba948a8b9d8b1ca0e/651dbeb61931fd7b9abd2cec_avatar-01.svg",
+            "content": "This is AMAZING!!! I have had so much on my plate and I have ADHD that is a more recent development/discovery, so Journaling has been a goal of mine for a long time but I find it difficult to maintain. The fact that this is interactive and gives feedback, suggestions, and insights is exactly what I need.",
+            "category":"health"
+        },
+        {
+            "name": "Anonymous User",
+            "image": "https://uploads-ssl.webflow.com/64066f7ba948a8b9d8b1ca0e/651dbeb61931fd7b9abd2cec_avatar-01.svg",
+            "content": "This is AMAZING!!! I have had so much on my plate and I have ADHD that is a more recent development/discovery, so Journaling has been a goal of mine for a long time but I find it difficult to maintain. The fact that this is interactive and gives feedback, suggestions, and insights is exactly what I need.",
+            "category":"health"
+        },
+        {
+            "name": "Anonymous User",
+            "image": "https://uploads-ssl.webflow.com/64066f7ba948a8b9d8b1ca0e/651dbeb61931fd7b9abd2cec_avatar-01.svg",
+            "content": "This is AMAZING!!! I have had so much on my plate and I have ADHD that is a more recent development/discovery, so Journaling has been a goal of mine for a long time but I find it difficult to maintain. The fact that this is interactive and gives feedback, suggestions, and insights is exactly what I need.",
+            "category":"health"
+        },
+        {
+            "name": "Anonymous User",
+            "image": "https://uploads-ssl.webflow.com/64066f7ba948a8b9d8b1ca0e/651dbeb61931fd7b9abd2cec_avatar-01.svg",
+            "content": "This is AMAZING!!! I have had so much on my plate and I have ADHD that is a more recent development/discovery, so Journaling has been a goal of mine for a long time but I find it difficult to maintain. The fact that this is interactive and gives feedback, suggestions, and insights is exactly what I need.",
+            "category":"health"
+        },
+        {
+            "name": "Anonymous User",
+            "image": "https://uploads-ssl.webflow.com/64066f7ba948a8b9d8b1ca0e/651dbeb61931fd7b9abd2cec_avatar-01.svg",
+            "content": "This is AMAZING!!! I have had so much on my plate and I have ADHD that is a more recent development/discovery, so Journaling has been a goal of mine for a long time but I find it difficult to maintain. The fact that this is interactive and gives feedback, suggestions, and insights is exactly what I need.",
+            "category":"health"
+        }        
+    ]
+}
