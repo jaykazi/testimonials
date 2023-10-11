@@ -1,3 +1,3 @@
-const configData = require('./config.json');
-console.log(typeof configData);
-console.log(configData);
+const data = require('./html-codes-1954187.json');
+console.log(typeof data);
+console.log(data);
